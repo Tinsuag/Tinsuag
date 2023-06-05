@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Software engineering program from ALX.
 - 💞️ I’m looking to collaborate on Webdevelopment, Machine learning, Dataanalytics, Robotics and automation in the mechatronics engineering field.
 - 📫 How to reach me 
--     email.           [Tinsaeareg@gmail.com]
--     phone number:     +251916584858
+Email - [Tinsaeareg@gmail.com]
+Phone - (+251)916584858
 -      
 
 <!---
