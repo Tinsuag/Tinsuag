@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning Software engineering program from ALX.
 - 💞️ I’m looking to collaborate on Webdevelopment, Machine learning, Dataanalytics, Robotics and automation in the mechatronics engineering field.
 - 📫 How to reach me 
-Email - [Tinsaeareg@gmail.com]
-Phone - (+251)916584858
--      
+- Email - [Tinsaeareg@gmail.com]
+- Phone - (+251)916584858
 
 <!---
 Tinsuag/Tinsuag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
